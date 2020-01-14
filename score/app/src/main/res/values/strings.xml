@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">score</string>
+
+    <string name="onduButton">ondu</string>
+    <string name="restButton">rest</string>
+</resources>
