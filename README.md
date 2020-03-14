@@ -5,7 +5,7 @@
 ### 「ViewModelSHP」 这个文件夹是将文件保存到本地 使用AndroidVIewMode和SharedPreferences方法。 重启之后也会读取到之前保存的数据
 ### 「Navigation」这个只是使用基础的Navigation功能用来跳转Fragment功能 以及左上角实现返回按钮功能 
 
-
+### 「NavDemo2」这个只是使用基础的Navigation功能用来跳转Fragment功能 以及左上角实现返回按钮功能 还有数值的传递 以及进入界面动画的自定义
 
 
 
